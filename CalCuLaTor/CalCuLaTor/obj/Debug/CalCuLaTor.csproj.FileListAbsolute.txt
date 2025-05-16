@@ -1,0 +1,10 @@
+C:\Users\kocao\source\repos\CalCuLaTor\CalCuLaTor\bin\Debug\CalCuLaTor.exe.config
+C:\Users\kocao\source\repos\CalCuLaTor\CalCuLaTor\bin\Debug\CalCuLaTor.exe
+C:\Users\kocao\source\repos\CalCuLaTor\CalCuLaTor\bin\Debug\CalCuLaTor.pdb
+C:\Users\kocao\source\repos\CalCuLaTor\CalCuLaTor\obj\Debug\CalCuLaTor.csproj.AssemblyReference.cache
+C:\Users\kocao\source\repos\CalCuLaTor\CalCuLaTor\obj\Debug\CalCuLaTor.Form1.resources
+C:\Users\kocao\source\repos\CalCuLaTor\CalCuLaTor\obj\Debug\CalCuLaTor.Properties.Resources.resources
+C:\Users\kocao\source\repos\CalCuLaTor\CalCuLaTor\obj\Debug\CalCuLaTor.csproj.GenerateResource.cache
+C:\Users\kocao\source\repos\CalCuLaTor\CalCuLaTor\obj\Debug\CalCuLaTor.csproj.CoreCompileInputs.cache
+C:\Users\kocao\source\repos\CalCuLaTor\CalCuLaTor\obj\Debug\CalCuLaTor.exe
+C:\Users\kocao\source\repos\CalCuLaTor\CalCuLaTor\obj\Debug\CalCuLaTor.pdb
