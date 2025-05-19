@@ -1,1 +1,1 @@
-basit hesap makinesi yapımı
+4 işlem basit hesap makinesi yapımıdır.
